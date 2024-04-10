@@ -180,8 +180,8 @@ export default function Home() {
                   className="heading wow words chars splitting"
                   data-splitting=""
                   style={{
-                    "--word-total": 3,
-                    "--char-total": 15,
+
+
                     visibility: "hidden",
                     animationName: "none",
                   }}
@@ -189,54 +189,54 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Unicorn"
-                    style={{ "--word-index": 0 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="U"
-                      style={{ "--char-index": 0 }}
+                      style={{  }}
                     >
                       U
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 1 }}
+                      style={{  }}
                     >
                       n
                     </span>
                     <span
                       className="char"
                       data-char="i"
-                      style={{ "--char-index": 2 }}
+                      style={{  }}
                     >
                       i
                     </span>
                     <span
                       className="char"
                       data-char="c"
-                      style={{ "--char-index": 3 }}
+                      style={{  }}
                     >
                       c
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 4 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="r"
-                      style={{ "--char-index": 5 }}
+                      style={{  }}
                     >
                       r
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 6 }}
+                      style={{  }}
                     >
                       n
                     </span>
@@ -245,33 +245,33 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Mart"
-                    style={{ "--word-index": 1 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="M"
-                      style={{ "--char-index": 7 }}
+                      style={{  }}
                     >
                       M
                     </span>
                     <span
                       className="char"
                       data-char="a"
-                      style={{ "--char-index": 8 }}
+                      style={{  }}
                     >
                       a
                     </span>
                     <span
                       className="char"
                       data-char="r"
-                      style={{ "--char-index": 9 }}
+                      style={{  }}
                     >
                       r
                     </span>
                     <span
                       className="char"
                       data-char="t"
-                      style={{ "--char-index": 10 }}
+                      style={{  }}
                     >
                       t
                     </span>
@@ -280,33 +280,33 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Inc."
-                    style={{ "--word-index": 2 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="I"
-                      style={{ "--char-index": 11 }}
+                      style={{  }}
                     >
                       I
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 12 }}
+                      style={{  }}
                     >
                       n
                     </span>
                     <span
                       className="char"
                       data-char="c"
-                      style={{ "--char-index": 13 }}
+                      style={{  }}
                     >
                       c
                     </span>
                     <span
                       className="char"
                       data-char="."
-                      style={{ "--char-index": 14 }}
+                      style={{  }}
                     >
                       .
                     </span>
@@ -347,8 +347,8 @@ export default function Home() {
                   className="heading wow words chars splitting"
                   data-splitting=""
                   style={{
-                    "--word-total": 6,
-                    "--char-total": 42,
+
+
                     visibility: "hidden",
                     animationName: "none",
                   }}
@@ -356,61 +356,61 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Complete"
-                    style={{ "--word-index": 0 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="C"
-                      style={{ "--char-index": 0 }}
+                      style={{  }}
                     >
                       C
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 1 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="m"
-                      style={{ "--char-index": 2 }}
+                      style={{  }}
                     >
                       m
                     </span>
                     <span
                       className="char"
                       data-char="p"
-                      style={{ "--char-index": 3 }}
+                      style={{  }}
                     >
                       p
                     </span>
                     <span
                       className="char"
                       data-char="l"
-                      style={{ "--char-index": 4 }}
+                      style={{  }}
                     >
                       l
                     </span>
                     <span
                       className="char"
                       data-char="e"
-                      style={{ "--char-index": 5 }}
+                      style={{  }}
                     >
                       e
                     </span>
                     <span
                       className="char"
                       data-char="t"
-                      style={{ "--char-index": 6 }}
+                      style={{  }}
                     >
                       t
                     </span>
                     <span
                       className="char"
                       data-char="e"
-                      style={{ "--char-index": 7 }}
+                      style={{  }}
                     >
                       e
                     </span>
@@ -419,68 +419,68 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Solutions"
-                    style={{ "--word-index": 1 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="S"
-                      style={{ "--char-index": 8 }}
+                      style={{  }}
                     >
                       S
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 9 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="l"
-                      style={{ "--char-index": 10 }}
+                      style={{  }}
                     >
                       l
                     </span>
                     <span
                       className="char"
                       data-char="u"
-                      style={{ "--char-index": 11 }}
+                      style={{  }}
                     >
                       u
                     </span>
                     <span
                       className="char"
                       data-char="t"
-                      style={{ "--char-index": 12 }}
+                      style={{  }}
                     >
                       t
                     </span>
                     <span
                       className="char"
                       data-char="i"
-                      style={{ "--char-index": 13 }}
+                      style={{  }}
                     >
                       i
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 14 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 15 }}
+                      style={{  }}
                     >
                       n
                     </span>
                     <span
                       className="char"
                       data-char="s"
-                      style={{ "--char-index": 16 }}
+                      style={{  }}
                     >
                       s
                     </span>
@@ -489,26 +489,26 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="for"
-                    style={{ "--word-index": 2 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="f"
-                      style={{ "--char-index": 17 }}
+                      style={{  }}
                     >
                       f
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 18 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="r"
-                      style={{ "--char-index": 19 }}
+                      style={{  }}
                     >
                       r
                     </span>
@@ -517,33 +517,33 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="your"
-                    style={{ "--word-index": 3 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="y"
-                      style={{ "--char-index": 20 }}
+                      style={{  }}
                     >
                       y
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 21 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="u"
-                      style={{ "--char-index": 22 }}
+                      style={{  }}
                     >
                       u
                     </span>
                     <span
                       className="char"
                       data-char="r"
-                      style={{ "--char-index": 23 }}
+                      style={{  }}
                     >
                       r
                     </span>
@@ -552,61 +552,61 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="shopping"
-                    style={{ "--word-index": 4 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="s"
-                      style={{ "--char-index": 24 }}
+                      style={{  }}
                     >
                       s
                     </span>
                     <span
                       className="char"
                       data-char="h"
-                      style={{ "--char-index": 25 }}
+                      style={{  }}
                     >
                       h
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 26 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="p"
-                      style={{ "--char-index": 27 }}
+                      style={{  }}
                     >
                       p
                     </span>
                     <span
                       className="char"
                       data-char="p"
-                      style={{ "--char-index": 28 }}
+                      style={{  }}
                     >
                       p
                     </span>
                     <span
                       className="char"
                       data-char="i"
-                      style={{ "--char-index": 29 }}
+                      style={{  }}
                     >
                       i
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 30 }}
+                      style={{  }}
                     >
                       n
                     </span>
                     <span
                       className="char"
                       data-char="g"
-                      style={{ "--char-index": 31 }}
+                      style={{  }}
                     >
                       g
                     </span>
@@ -615,75 +615,75 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="eXperience"
-                    style={{ "--word-index": 5 }}
+                    style={{}}
                   >
                     <span
                       className="char"
                       data-char="e"
-                      style={{ "--char-index": 32 }}
+                      style={{  }}
                     >
                       e
                     </span>
                     <span
                       className="char"
                       data-char="X"
-                      style={{ "--char-index": 33 }}
+                      style={{  }}
                     >
                       X
                     </span>
                     <span
                       className="char"
                       data-char="p"
-                      style={{ "--char-index": 34 }}
+                      style={{  }}
                     >
                       p
                     </span>
                     <span
                       className="char"
                       data-char="e"
-                      style={{ "--char-index": 35 }}
+                      style={{  }}
                     >
                       e
                     </span>
                     <span
                       className="char"
                       data-char="r"
-                      style={{ "--char-index": 36 }}
+                      style={{  }}
                     >
                       r
                     </span>
                     <span
                       className="char"
                       data-char="i"
-                      style={{ "--char-index": 37 }}
+                      style={{  }}
                     >
                       i
                     </span>
                     <span
                       className="char"
                       data-char="e"
-                      style={{ "--char-index": 38 }}
+                      style={{  }}
                     >
                       e
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 39 }}
+                      style={{  }}
                     >
                       n
                     </span>
                     <span
                       className="char"
                       data-char="c"
-                      style={{ "--char-index": 40 }}
+                      style={{  }}
                     >
                       c
                     </span>
                     <span
                       className="char"
                       data-char="e"
-                      style={{ "--char-index": 41 }}
+                      style={{  }}
                     >
                       e
                     </span>
@@ -714,8 +714,7 @@ export default function Home() {
                   className="heading wow words chars splitting"
                   data-splitting=""
                   style={{
-                    "--word-total": 5,
-                    "--char-total": 21,
+
                     visibility: "hidden",
                     animationName: "none",
                   }}
@@ -723,26 +722,26 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="How"
-                    style={{ "--word-index": 0 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="H"
-                      style={{ "--char-index": 0 }}
+                      style={{  }}
                     >
                       H
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 1 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="w"
-                      style={{ "--char-index": 2 }}
+                      style={{  }}
                     >
                       w
                     </span>
@@ -751,19 +750,19 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="to"
-                    style={{ "--word-index": 1 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="t"
-                      style={{ "--char-index": 3 }}
+                      style={{  }}
                     >
                       t
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 4 }}
+                      style={{  }}
                     >
                       o
                     </span>
@@ -772,47 +771,47 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Become"
-                    style={{ "--word-index": 2 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="B"
-                      style={{ "--char-index": 5 }}
+                      style={{  }}
                     >
                       B
                     </span>
                     <span
                       className="char"
                       data-char="e"
-                      style={{ "--char-index": 6 }}
+                      style={{  }}
                     >
                       e
                     </span>
                     <span
                       className="char"
                       data-char="c"
-                      style={{ "--char-index": 7 }}
+                      style={{  }}
                     >
                       c
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 8 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="m"
-                      style={{ "--char-index": 9 }}
+                      style={{  }}
                     >
                       m
                     </span>
                     <span
                       className="char"
                       data-char="e"
-                      style={{ "--char-index": 10 }}
+                      style={{  }}
                     >
                       e
                     </span>
@@ -821,26 +820,26 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Our"
-                    style={{ "--word-index": 3 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="O"
-                      style={{ "--char-index": 11 }}
+                      style={{  }}
                     >
                       O
                     </span>
                     <span
                       className="char"
                       data-char="u"
-                      style={{ "--char-index": 12 }}
+                      style={{  }}
                     >
                       u
                     </span>
                     <span
                       className="char"
                       data-char="r"
-                      style={{ "--char-index": 13 }}
+                      style={{  }}
                     >
                       r
                     </span>
@@ -849,54 +848,54 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Sponsor"
-                    style={{ "--word-index": 4 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="S"
-                      style={{ "--char-index": 14 }}
+                      style={{  }}
                     >
                       S
                     </span>
                     <span
                       className="char"
                       data-char="p"
-                      style={{ "--char-index": 15 }}
+                      style={{  }}
                     >
                       p
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 16 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 17 }}
+                      style={{  }}
                     >
                       n
                     </span>
                     <span
                       className="char"
                       data-char="s"
-                      style={{ "--char-index": 18 }}
+                      style={{  }}
                     >
                       s
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 19 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="r"
-                      style={{ "--char-index": 20 }}
+                      style={{  }}
                     >
                       r
                     </span>
@@ -1255,8 +1254,7 @@ export default function Home() {
                   className="heading wow words chars splitting"
                   data-splitting=""
                   style={{
-                    "--word-total": 2,
-                    "--char-total": 13,
+
                     visibility: "hidden",
                     animationName: "none",
                   }}
@@ -1264,26 +1262,26 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="OUR"
-                    style={{ "--word-index": 0 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="O"
-                      style={{ "--char-index": 0 }}
+                      style={{  }}
                     >
                       O
                     </span>
                     <span
                       className="char"
                       data-char="U"
-                      style={{ "--char-index": 1 }}
+                      style={{  }}
                     >
                       U
                     </span>
                     <span
                       className="char"
                       data-char="R"
-                      style={{ "--char-index": 2 }}
+                      style={{  }}
                     >
                       R
                     </span>
@@ -1292,75 +1290,75 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="COLLECTION"
-                    style={{ "--word-index": 1 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="C"
-                      style={{ "--char-index": 3 }}
+                      style={{  }}
                     >
                       C
                     </span>
                     <span
                       className="char"
                       data-char="O"
-                      style={{ "--char-index": 4 }}
+                      style={{  }}
                     >
                       O
                     </span>
                     <span
                       className="char"
                       data-char="L"
-                      style={{ "--char-index": 5 }}
+                      style={{  }}
                     >
                       L
                     </span>
                     <span
                       className="char"
                       data-char="L"
-                      style={{ "--char-index": 6 }}
+                      style={{  }}
                     >
                       L
                     </span>
                     <span
                       className="char"
                       data-char="E"
-                      style={{ "--char-index": 7 }}
+                      style={{  }}
                     >
                       E
                     </span>
                     <span
                       className="char"
                       data-char="C"
-                      style={{ "--char-index": 8 }}
+                      style={{  }}
                     >
                       C
                     </span>
                     <span
                       className="char"
                       data-char="T"
-                      style={{ "--char-index": 9 }}
+                      style={{  }}
                     >
                       T
                     </span>
                     <span
                       className="char"
                       data-char="I"
-                      style={{ "--char-index": 10 }}
+                      style={{  }}
                     >
                       I
                     </span>
                     <span
                       className="char"
                       data-char="O"
-                      style={{ "--char-index": 11 }}
+                      style={{  }}
                     >
                       O
                     </span>
                     <span
                       className="char"
                       data-char="N"
-                      style={{ "--char-index": 12 }}
+                      style={{  }}
                     >
                       N
                     </span>
@@ -1797,7 +1795,7 @@ export default function Home() {
                     <path
                       d="M8.8788 7.46543L2.43654 13.8092C2.1795 14.0662 1.76387 14.0662 1.50683 13.8092L1.11856 13.4209C0.861521 13.1639 0.861521 12.7482 1.11856 12.4912L6.7131 7.00059L1.12402 1.50997C0.866998 1.25293 0.866998 0.837303 1.12402 0.580281L1.51231 0.191991C1.76933 -0.0650311 2.18496 -0.0650311 2.442 0.191991L8.88422 6.53574C9.1357 6.79278 9.1357 7.20841 8.8788 7.46543Z"
                       fill="white"
-                      fill-opacity="0.5"
+                      fillOpacity="0.5"
                     ></path>
                   </svg>
                 </div>
@@ -1849,8 +1847,7 @@ export default function Home() {
                   className="heading wow words chars splitting"
                   data-splitting=""
                   style={{
-                    "--word-total": 6,
-                    "--char-total": 27,
+
                     visibility: "hidden",
                     animationName: "none",
                   }}
@@ -1858,26 +1855,26 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="The"
-                    style={{ "--word-index": 0 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="T"
-                      style={{ "--char-index": 0 }}
+                      style={{  }}
                     >
                       T
                     </span>
                     <span
                       className="char"
                       data-char="h"
-                      style={{ "--char-index": 1 }}
+                      style={{  }}
                     >
                       h
                     </span>
                     <span
                       className="char"
                       data-char="e"
-                      style={{ "--char-index": 2 }}
+                      style={{  }}
                     >
                       e
                     </span>
@@ -1886,54 +1883,54 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Journey"
-                    style={{ "--word-index": 1 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="J"
-                      style={{ "--char-index": 3 }}
+                      style={{  }}
                     >
                       J
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 4 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="u"
-                      style={{ "--char-index": 5 }}
+                      style={{  }}
                     >
                       u
                     </span>
                     <span
                       className="char"
                       data-char="r"
-                      style={{ "--char-index": 6 }}
+                      style={{  }}
                     >
                       r
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 7 }}
+                      style={{  }}
                     >
                       n
                     </span>
                     <span
                       className="char"
                       data-char="e"
-                      style={{ "--char-index": 8 }}
+                      style={{  }}
                     >
                       e
                     </span>
                     <span
                       className="char"
                       data-char="y"
-                      style={{ "--char-index": 9 }}
+                      style={{  }}
                     >
                       y
                     </span>
@@ -1942,19 +1939,19 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="of"
-                    style={{ "--word-index": 2 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 10 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="f"
-                      style={{ "--char-index": 11 }}
+                      style={{  }}
                     >
                       f
                     </span>
@@ -1963,54 +1960,54 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Unicorn"
-                    style={{ "--word-index": 3 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="U"
-                      style={{ "--char-index": 12 }}
+                      style={{  }}
                     >
                       U
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 13 }}
+                      style={{  }}
                     >
                       n
                     </span>
                     <span
                       className="char"
                       data-char="i"
-                      style={{ "--char-index": 14 }}
+                      style={{  }}
                     >
                       i
                     </span>
                     <span
                       className="char"
                       data-char="c"
-                      style={{ "--char-index": 15 }}
+                      style={{  }}
                     >
                       c
                     </span>
                     <span
                       className="char"
                       data-char="o"
-                      style={{ "--char-index": 16 }}
+                      style={{  }}
                     >
                       o
                     </span>
                     <span
                       className="char"
                       data-char="r"
-                      style={{ "--char-index": 17 }}
+                      style={{  }}
                     >
                       r
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 18 }}
+                      style={{  }}
                     >
                       n
                     </span>
@@ -2019,33 +2016,33 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Mart"
-                    style={{ "--word-index": 4 }}
+                    style={{  }}
                   >
                     <span
                       className="char"
                       data-char="M"
-                      style={{ "--char-index": 19 }}
+                      style={{  }}
                     >
                       M
                     </span>
                     <span
                       className="char"
                       data-char="a"
-                      style={{ "--char-index": 20 }}
+                      style={{  }}
                     >
                       a
                     </span>
                     <span
                       className="char"
                       data-char="r"
-                      style={{ "--char-index": 21 }}
+                      style={{  }}
                     >
                       r
                     </span>
                     <span
                       className="char"
                       data-char="t"
-                      style={{ "--char-index": 22 }}
+                      style={{  }}
                     >
                       t
                     </span>
@@ -2054,33 +2051,33 @@ export default function Home() {
                   <span
                     className="word"
                     data-word="Inc."
-                    style={{ "--word-index": 5 }}
+                    style={{}}
                   >
                     <span
                       className="char"
                       data-char="I"
-                      style={{ "--char-index": 23 }}
+                      style={{  }}
                     >
                       I
                     </span>
                     <span
                       className="char"
                       data-char="n"
-                      style={{ "--char-index": 24 }}
+                      style={{  }}
                     >
                       n
                     </span>
                     <span
                       className="char"
                       data-char="c"
-                      style={{ "--char-index": 25 }}
+                      style={{  }}
                     >
                       c
                     </span>
                     <span
                       className="char"
                       data-char="."
-                      style={{ "--char-index": 26 }}
+                      style={{  }}
                     >
                       .
                     </span>
